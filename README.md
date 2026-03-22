@@ -3,8 +3,7 @@
 # 🧬 MedStock AI
 
 ### AI-Powered Pharmacy Inventory Management System
-**Built for AETRIX 2026 — Healthcare / MedTech Domain**
-**Team - Laminar Flowriders (No. 6)**
+**Built for AETRIX 2026 — Healthcare by Laminar Flowriders**
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://react.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-Firestore-FFCA28?style=flat-square&logo=firebase)](https://firebase.google.com)
